@@ -1,0 +1,9 @@
+# Backend gitignore
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+.celery/
+*.celerydb
