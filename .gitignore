@@ -80,6 +80,8 @@ Thumbs.db
 *.swp
 *.swo
 
-# Temporary Brain / Cache
+# Temporary Brain / Cache / Prompts
 .gemini/
 brain/
+healthvault-ai-master-prompt.md
+*.prompt.md
