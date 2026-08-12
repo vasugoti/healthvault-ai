@@ -199,4 +199,4 @@ healthvault-ai/
 
 ## 📜 License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more details.
+Distributed under the MIT License. Copyright (c) 2026 Vasu Goti (<vasugoti2005@gmail.com>). See [`LICENSE`](LICENSE) for details.

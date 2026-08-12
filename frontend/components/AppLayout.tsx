@@ -124,6 +124,14 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
               <LogOut size={14} />
               Sign out
             </button>
+
+            <div style={{
+              fontSize: "0.65rem", color: "var(--text-muted)", marginTop: "0.75rem",
+              textAlign: "center", fontWeight: 500, letterSpacing: "0.01em", lineHeight: 1.4
+            }}>
+              © 2026 Vasu Goti<br />
+              <span style={{ fontSize: "0.6rem", opacity: 0.8 }}>vasugoti2005@gmail.com</span>
+            </div>
           </div>
         </div>
       </aside>
